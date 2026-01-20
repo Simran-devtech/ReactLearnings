@@ -1,0 +1,2 @@
+production -convert to html css and javascript at the end from react.,development-environment-developer can seethe run time change --lint-rules are checked ,rules are made in eslint...run as --npm run dev,build,lint
+componrent-a reusal file that returs a javascript function
